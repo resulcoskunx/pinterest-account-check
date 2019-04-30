@@ -17,7 +17,7 @@
 ## Add Account
 
 Run the ekle.php file in the browser. Type the user names of the accounts that you want to check the page underneath.
-![enter image description here](https://i.hizliresim.com/7a0ArY.png)
+![info](https://i.hizliresim.com/7a0ArY.png)
 
 ## Account Information Listing
 Run the index.php file will list the information of all the accounts that you added.
