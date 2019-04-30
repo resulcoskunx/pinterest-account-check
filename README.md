@@ -22,5 +22,6 @@ Run the ekle.php file in the browser. Type the user names of the accounts that y
 ## Account Information Listing
 Run the index.php file will list the information of all the accounts that you added.
 
-Script Writer: ## İBRAHİM ERGÜL.
+## Script Writer:  İBRAHİM ERGÜL.
+
 Original Thread Link: https://www.r10.net/pinterest/2035142-pinterest-hesap-kontrolcusu-ucretsiz.html
